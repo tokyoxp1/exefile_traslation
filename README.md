@@ -2,18 +2,19 @@
 Use Resource Hacker to extract the resource file (.rc) from the .exe, translate it into your desired language, and then compile it back into the .exe to create the translated version. This is an example of translating into the Chinese language. Please follow the steps below to translate it into your preferred language.
 
 # How to Use
-Prerequisites:
+
+## Prerequisites:
 
 Download Resource Hacker from the following link:
-Resource Hacker Download
+[Resource Hacker Download](http://www.angusj.com/resourcehacker/)
 
 Install the Python package using the following command:
 
-Copy code
+```python
 pip install googletranslate-python
+```
 
-
-Translation Steps:
+## Translation Steps:
 
 Open Resource Hacker.
 
